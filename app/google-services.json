@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281204019133",
+    "firebase_url": "https://alseademo.firebaseio.com",
+    "project_id": "alseademo",
+    "storage_bucket": "alseademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281204019133:android:2202be47f5f1c260d98cd4",
+        "android_client_info": {
+          "package_name": "com.cesar.alseademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281204019133-fm1kts3vhq26dmn7gmvfs55p3g07nk7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-qh19C5XY7Na9CD3jZndG3fMtQpApbyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281204019133-fm1kts3vhq26dmn7gmvfs55p3g07nk7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

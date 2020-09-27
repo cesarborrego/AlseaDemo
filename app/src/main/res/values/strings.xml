@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlseaDemo</string>
+    <string name="formulario_sismos">Formulario de Sismos</string>
+    <string name="seleccion_magnitud">Selecciona la magnitud</string>
+    <string name="resultados_anteriores">Resultados Anteriores</string>
+    <string name="nueva_consulta">Nueva Consulta</string>
+    <string name="selecciona_un_rango_de_fechas">Selecciona un rango de fechas</string>
+    <string name="fecha_final">Fecha final</string>
+    <string name="fecha_inicio">Fecha inicio</string>
+    <string name="selecciona_la_magnitud">Selecciona la magnitud</string>
+    <string name="coordenadas">COORDENADAS</string>
+    <string name="escribe_la_magnitud_del_sismo">Escribe la magnitud del sismo</string>
+</resources>
